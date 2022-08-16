@@ -1,0 +1,14 @@
+# Aula 1 – pensamento computacional
+### É um pensamento sistemático e eficiente
+### Tem que apresentar uma solução resolvível tanto pra uma maquina quanto para um humano
+### É uma habilidade que podemos utilizar em diferentes âmbitos da nossa vida.
+### Baseado em 4 pilares:
+ -	Decomposição -> dividir um problema complexo em subproblemas.
+ -	Reconhecimento de padrões -> identificar padrões ou tendencias
+ -	Abstração -> extrapolar o conceito do problema para uma forma generalista
+ -	Design de algoritmos -> automatizar, definir passo a passo a solução do problema
+### É um processo continuo, definir uma solução, testar a solução e aperfeiçoamento da solução encontrada.
+### Raciocínio lógico, é uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema. É classificado como:
+ -	Indução -> fenômeno observado
+ -	Dedução -> previsões e explicações
+ -	Abdução -> a partir da conclusão é retirada a premissa.
